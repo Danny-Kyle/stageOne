@@ -20,9 +20,9 @@ public class NumberResponse {
     }
 
     public int getNumber() {return number;}
-    public boolean isPrime() {return is_prime;}
-    public boolean isPerfect() {return is_perfect;}
+    public boolean getis_prime() {return is_prime;}
+    public boolean getis_perfect() {return is_perfect;}
     public List<String> getProperties() {return properties;}
-    public int getDigitSum() {return digit_sum;}
-    public String getFunFact() {return fun_fact;}
+    public int getdigit_Sum() {return digit_sum;}
+    public String getfun_Fact() {return fun_fact;}
 }
